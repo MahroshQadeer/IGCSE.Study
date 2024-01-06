@@ -1,0 +1,82 @@
+nav {
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    a {
+    margin: 5px;
+    margin-left: 40px;
+    text-decoration: none;
+    color: black;
+    }
+    button {
+    background-color: #2267ce;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    box-shadow: none;
+    border: none;
+    }
+    #icon {
+        font-size: 30px;
+        color: #2267ce;
+        margin: 10px 450px 220px 20px;
+        }
+h2{
+            margin-left: 100px;
+            font-size: xx-large;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#DIV{
+    margin-left: 150px;
+    margin-top: 20px;
+    border:1px solid black;
+    border-width: 2px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.i{
+    margin-left: 2px;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#how{
+    margin-left: 65px;
+}
+
+#my{
+    margin-left: 100px;
+}
+
+#DV{
+    margin-left: 150px;
+    margin-top: 20px;
+    border:1px solid black;
+    border-width: 2px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+#DI{
+    margin-left: 150px;
+    margin-top: 20px;
+    border:1px solid black;
+    border-width: 2px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+#fi{
+    opacity: 0.8;
+    margin-left: 500px;
+}
+#YT{
+    margin-left: 1000px;
+}
+footer{
+    font-size: x-large;
+    opacity: 0.7;
+}
